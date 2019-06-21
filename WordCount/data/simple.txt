@@ -1,0 +1,4 @@
+Dog is an animal. 
+Monkey is an animal! 
+
+Elephant is also an animal 
